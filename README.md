@@ -1,4 +1,4 @@
-<p align="left">
+<p align="left">/
 
 ## Hi there, I'm Debojyoti! 👋🏻 
 <!--
@@ -13,7 +13,7 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/utkarsh914/count.svg" />
+  <img src="https://profile-counter.glitch.me/Debojyoti1915001/count.svg" />
 </p>
 
 <p align="right">
