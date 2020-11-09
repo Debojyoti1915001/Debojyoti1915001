@@ -17,5 +17,5 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 </p>
 
 <p align="right">
-Github Cards by <a href="https://github.com/anuraghazra">anuraghazra</a>
+
 </p>
