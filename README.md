@@ -1,4 +1,4 @@
-<p align="left">/
+<p align="left">
 
 ## Hi there, I'm Debojyoti! 👋🏻 
 <!--
@@ -17,5 +17,5 @@ I'm Full Stack Developer with a serious passion for UI effects, animations and c
 </p>
 
 <p align="right">
-
+Email:debojyoti76@gmail.com
 </p>
