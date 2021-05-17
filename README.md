@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Debojyoti! 👋🏻 
 
-I'm Full Stack Developer with a serious passion for UI effects, animations and creating intuitive, dynamic user experiences with highly scalable backend. <br>
+I'm Backend Web Developer in NodeJS. <br>
 <br>
 🌱 I’m currently learning React.js <br>
   <p>
