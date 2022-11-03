@@ -2,9 +2,9 @@
 
 ## Hi there, I'm Debojyoti! 👋🏻 
 
-I'm Backend Web Developer in NodeJS. <br>
+I'm Full Stack Web Developer(MERN) || Android Developer(React Native) . <br>
 <br>
-🌱 I’m currently learning React.js <br>
+🌱 I’m currently learning Blockchain <br>
   <p>
 <br>
 
