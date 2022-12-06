@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [https://medium.com/@debojyoti76](https://medium.com/@debojyoti76)
+- 📝 I regularly write articles on [Medium](https://medium.com/@debojyoti76)
 
 - 💬 Ask me about **Backend Development**
 
