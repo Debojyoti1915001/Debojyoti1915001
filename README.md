@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12A533WiTeOK0pER3kjn546vkiPrYh-07/view?usp=sharing](https://drive.google.com/file/d/12A533WiTeOK0pER3kjn546vkiPrYh-07/view?usp=sharing)
 
-- ⚡ Fun fact **I am in love with backend dev.**
+- ⚡ Fun fact ** In a love hate relationship with documentation **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
